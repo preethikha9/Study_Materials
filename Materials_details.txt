@@ -1,0 +1,37 @@
+PYTHON
+-----------------------------
+1. graph - https://www.linkedin.com/posts/michael-mike-erlihson-phd-8208616_plotly-plotly-express-tutorial-ugcPost-6845450956839108609-N-HQ
+2. Python Best book Brain - https://www.linkedin.com/posts/michael-mike-erlihson-phd-8208616_practical-introduction-to-python-programming-ugcPost-6843103991706984448-H043
+3. Python codeing Question - https://www.linkedin.com/posts/jansonlim_57-exercises-for-programmers-ugcPost-6813730775486279680-3Lwq
+
+
+Machine Learning 
+-----------------------------
+1. Machine Learning by Vikas & Samer - https://www.linkedin.com/posts/michael-mike-erlihson-phd-8208616_machine-learning-for-humans-ugcPost-6844736348172128257-F63_
+2. ML Best Practice - https://www.linkedin.com/posts/michael-mike-erlihson-phd-8208616_rules-of-ml-best-practices-for-ml-engineering-ugcPost-6843999873826619392-jWLI
+3. ML Book - https://www.linkedin.com/posts/michael-mike-erlihson-phd-8208616_machine-learning-1st-course-for-engineers-ugcPost-6842903995887951872-EAtD
+4. ML Andrew Ng - https://www.linkedin.com/posts/ai4diversityorg_machine-learning-yearning-ugcPost-6843122863302615040-ryfQ
+5. Microsoft ML for beginners - https://github.com/microsoft/ML-For-Beginners
+
+
+
+SQL
+-----------------------------
+1. SQL Queries - https://www.linkedin.com/posts/ai4diversityorg_sql-notes-for-professionals-ugcPost-6844564173326749696-RbEn
+2. Danny ma git link - https://github.com/DataWithDanny/sql-masterclass
+3. SQL Amstrong - https://www.linkedin.com/posts/mengyaowang11_sql-with-practice-exercises-ugcPost-6838772934786588672-m0Rk
+
+
+
+AI 
+-----------------------------
+1. AI application - https://www.linkedin.com/posts/nditah_the-future-of-analytics-ugcPost-6844221220737576960-XeEE
+2. AI Handson - https://github.com/dair-ai/ML-YouTube-Courses
+
+
+Graph DataBase
+------------------------------
+1. Graph dB - https://www.linkedin.com/posts/ravitjain_graph-databases-for-beginners-ugcPost-6841995378271879168-qCZj
+
+
+
